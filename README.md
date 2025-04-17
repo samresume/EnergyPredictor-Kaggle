@@ -78,9 +78,3 @@ The notebook produces:
 - Cleaned and preprocessed data
 - Trained models with evaluation scores
 - Kaggle-ready submission file
-
----
-
-## 📌 Note
-
-This notebook is self-contained. All steps from data loading to prediction and submission are automated.
